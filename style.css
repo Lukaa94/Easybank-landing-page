@@ -148,7 +148,7 @@ header{
     z-index: 200;
 }
 
-.navbar-hamburger img, .navbar-close img, .overlay{
+.hamburger-icon img, .x-icon img, .overlay{
     display: none;
 }
 
@@ -238,7 +238,7 @@ header{
         display: block;
     }
 
-    .navbar-hamburger img{
+    .hamburger-icon img{
         width: 30px;
         height: 16px;
         position: absolute;
@@ -247,7 +247,7 @@ header{
         display: block;
     }
     
-    .navbar-close img{
+    .x-icon img{
         width: 25px;
         height: 20px;
         position: absolute;

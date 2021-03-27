@@ -2,4 +2,4 @@
 
 ![Design preview for the Easybank landing page coding challenge](./design/desktop-preview.jpg)
 
-Live demo: https://lukaa94.github.io/Easybank-landing-page/
+##Live demo: https://lukaa94.github.io/Easybank-landing-page/

@@ -156,7 +156,7 @@ header{
     .container-home{
         padding: 0;
         flex-direction: column-reverse;
-        height: 120vh;
+        height: 110vh;
     }
 
     .home{

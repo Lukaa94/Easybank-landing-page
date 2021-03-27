@@ -182,7 +182,7 @@ header{
         background-position: center center;
         width: 100%;
     }
-    
+
     .home-image::before{
         content: "";
         background: url(./images/image-mockups.png)no-repeat;
@@ -267,6 +267,12 @@ header{
     
     .hide-btn{
         display: none;
+    }
+}
+
+@media(max-width: 500px){
+    .home-image{
+        background-position: center top;
     }
 }
 

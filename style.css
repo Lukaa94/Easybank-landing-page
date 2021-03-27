@@ -158,11 +158,7 @@ header{
         flex-direction: column-reverse;
         height: 120vh;
     }
-
-    .home{
-        margin-bottom: 60px;
-    }
-   
+    
     .home-text{
         width: 100%;
         padding: 0 20px;
